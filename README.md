@@ -1,6 +1,6 @@
 <p align="center"><a href="https://tridiamond.tech" target="_blank" rel="noopener noreferrer"><img width="100" src="https://img-blog.csdnimg.cn/20200930013332450.png" alt="TriDiamond logo"></a></p>
 
-<h1 align="center">Hexo Theme: Obsidian</h1>
+<h1 align="center">บล็อค: Obsidian</h1>
 
 <div align="center">
 
